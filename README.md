@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# flutter_app
-Первое flutter приложение. Изучение Dart
-=======
-# flutter_app_learn_dart
+# flutter App
 
 A new Flutter project.
 
@@ -23,4 +19,4 @@ samples, guidance on mobile development, and a full API reference.
 
 - flutter pub get (to install all reqs)
 - flutter start
->>>>>>> b9cc779 (flutter added)
+  > > > > > > > b9cc779 (flutter added)
