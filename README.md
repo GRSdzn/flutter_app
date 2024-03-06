@@ -18,5 +18,5 @@ samples, guidance on mobile development, and a full API reference.
 ### Install
 
 - flutter pub get (to install all reqs)
-- flutter start
+- flutter run
   > > > > > > > b9cc779 (flutter added)
